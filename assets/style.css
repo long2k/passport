@@ -1,0 +1,60 @@
+/* login*/
+body{
+    margin:0px;
+    padding:0 px;
+    background-image: url(44MmzV.jpg);
+    color:white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+a{
+    color:red;
+}
+label{
+    font-size: 15px;
+}
+input{
+    background: transparent;
+    border:none;
+    border-bottom: white 1px solid;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+input:click{
+    border: none;
+    background: none;
+    border-bottom: white 1px solid;
+    
+}
+.form-login{
+     width: 300px;
+     height: 300px;
+     line-height: 20px;
+     margin: 0 auto;  
+     border: rgb(214, 212, 212) 1px solid;
+     margin-top:100px;
+     display: block;
+     border-radius: 20px;
+     
+}
+input[type="submit"]{
+    width: 100px;
+    height: 30px;
+    border: white 1px solid;
+    margin-left: 90px;
+    color:white;
+    border-radius: 20px;
+}
+input[type="submit"]:hover{
+    cursor:pointer;
+}
+form{
+    display: block;
+    line-height: 50px;
+}
+.title{
+    color:rgb(235, 235, 243);
+    text-align: center;
+}
+
+
